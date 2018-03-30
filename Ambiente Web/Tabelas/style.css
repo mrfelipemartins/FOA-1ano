@@ -1,0 +1,44 @@
+body {
+			
+				background-color:lightgrey;
+			}
+			
+			table {
+			
+				width: 25%;
+				border: 1px;
+				border-style: dotted;
+				border-color: grey;
+			}
+			
+			tr {
+			
+				background-color:white;
+				color:black ;
+				font-family:courier;
+				font-size:100% ;
+				text-align:center;
+				height:50px ;
+				vertical-align: middle;	
+			}
+			
+			th {
+			
+				background-color: yellow;
+			}
+			
+			th , td { 
+			
+				padding: 15px;
+			}
+			
+			tr:hover{
+			
+				background-color: black;
+				color: white;
+			}
+			
+			--tr:nth-child (even) {
+			
+				background-color: #4682B4;
+			}
