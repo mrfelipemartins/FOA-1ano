@@ -1,6 +1,6 @@
 # FOA-1ano
 
-**Nota**: *Não se baseem somente neste material pra estudar, a matéria pode mudar entre alguns anos e os professores também;*
+**Nota**: *Não usem somente neste material pra estudar, a matéria pode mudar entre alguns anos e os professores também;*
 
 Todo material disponibilizado foi disponibilizado no portal, não possuo autoria em NENHUM dos arquivos encontrados aqui.
 
